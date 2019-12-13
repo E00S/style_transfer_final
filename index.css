@@ -1,4 +1,42 @@
 img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  border-style: solid;
+  border-color: white;
+  border-width: 15px;
 }
+
+body {
+  background: black;
+}
+
+
+.div_results {
+  width: 55%; 
+  height: 100%;
+  float: right;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Arial", Verdana, serif;
+
+}
+.not_results {
+  width: 30%; 
+  height: 100%;
+  float: left;
+}
+
+.x1 {
+  width: 98%;
+  height: auto;
+}
+
+.x2 {
+  width: 98%;
+  display: block;
+  clear: both;
+}
+
