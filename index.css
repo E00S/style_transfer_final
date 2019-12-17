@@ -9,29 +9,84 @@ body {
   background: black;
 }
 
+p {
+  color: white;
+  text-align: center;
+  font-size: 26px;
+  font-family: "Arial", Verdana, serif;
+}
 
-.div_results {
-  width: 55%; 
-  height: 100%;
+#x11 {
+  width: 35%; 
+  height: auto;
+  float: right;
+}
+
+#x22 {
+  width: 40%; 
+  height: auto;
+  float: right;
+}
+
+#x33 {
+  width: 30%; 
+  height: auto;
+  float: right;
+}
+
+#x44 {
+  width: 35%; 
+  height: auto;
+  float: right;
+}
+
+#x55 {
+  width: 35%; 
+  height: auto;
+  float: right;
+}
+
+#x66 {
+  width: 35%; 
+  height: auto;
+  float: right;
+}
+
+#x77 {
+  width: 35%; 
+  height: auto;
+  float: right;
+}
+
+#x88 {
+  width: 35%; 
+  height: auto;
   float: right;
 }
 
 h1 {
   color: white;
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
   font-family: "Arial", Verdana, serif;
 
 }
 .not_results {
-  width: 30%; 
+  width: 25%; 
+  height: 100%;
+  float: left;
+}
+
+.x3 {
+  width: 20%; 
   height: 100%;
   float: left;
 }
 
 .x1 {
   width: 98%;
-  height: auto;
+  display: block;
+  clear: both;
 }
 
 .x2 {
